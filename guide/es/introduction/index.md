@@ -17,13 +17,13 @@ Este libro explica los conceptos básicos de "Datos Abiertos", especialmente en 
 
 Este manual tiene una amplia audiencia:
 
--   Para aquellos que jamás han escuchado anteriormente sobre datos abiertos y aquellos que se consideran experimentados profesionales de los datos,
+-   Para aquellos que jamás han oído hablar anteriormente sobre datos abiertos y aquellos que se consideran experimentados profesionales de los datos,
 -   funcionarios y activistas,
 -   para periodistas e investigadores,
 -   políticos y desarrolladores,
 -   *geeks* de los datos y los que nunca han oído hablar de una API.
 
-La mayoría de la información ofrecida actualmente está centrada en datos del sector público. Sin embargo, las intenciones de los autores son más amplias si el tiempo lo permite. Eres bienvenido para participar y ayudarnos en este esfuerzo.
+La mayoría de la información ofrecida actualmente está centrada en datos del sector público. Sin embargo, las intenciones de los autores son más amplias si el tiempo lo permite. Eres bienvenido a participar y ayudarnos en este esfuerzo.
 
 El manual apunta a aquellos con poco o sin conocimiento sobre la temática. Si te encuentras con jerga o terminología con la que no estás familiarizado, por favor recurre al Glosario y a las PF (Preguntas Frecuentes) que puedes encontrar al final del manual.
 
